@@ -1,3 +1,1 @@
-﻿namespace StringCalculatorKata
-{
-}
+﻿namespace StringCalculator;
