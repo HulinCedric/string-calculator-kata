@@ -1,6 +1,10 @@
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first, that you should apply daily for at least 15-30 minutes.
 
+## Choose a solution
+* csharpsdotnet6: Play with the latest LTS dotnet version and csharp 10 features.
+* csharpdotnetstandard: Play with constraints of a wide-range library author with dotnet standard 2.0.
+
 ## Before you start
 * Try not to read ahead.
 * Do **one task at a time**. The trick is to learn to work incrementally.
