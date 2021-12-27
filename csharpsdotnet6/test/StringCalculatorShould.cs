@@ -5,7 +5,7 @@ namespace StringCalculator.Tests;
 
 public class StringCalculatorShould
 {
-    [Fact]
+    [Fact(Skip = "Not implemented yet")]
     public void Test1()
     {
         false.Should().BeTrue();
