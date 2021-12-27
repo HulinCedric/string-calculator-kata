@@ -1,9 +1,8 @@
-using System;
 using Xunit;
 
-namespace StringCalculatorKata.Tests
+namespace StringCalculator.Tests
 {
-    public class UnitTest1
+    public class StringCalculatorShould
     {
         [Fact]
         public void Test1()

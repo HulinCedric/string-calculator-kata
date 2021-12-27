@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTests", "test\StringCalculatorTests.csproj", "{D1D2F6AE-550C-4400-86AB-B29142B19D7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Tests", "test\StringCalculator.Tests.csproj", "{D1D2F6AE-550C-4400-86AB-B29142B19D7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "src\StringCalculator.csproj", "{29B1D693-57F9-47CA-BF08-C32DC54DFB41}"
 EndProject
