@@ -1,7 +1,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace StringCalculator.Tests;
+namespace StringCalculatorKata.Tests;
 
 public class StringCalculatorShould
 {

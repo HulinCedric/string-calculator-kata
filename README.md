@@ -1,9 +1,15 @@
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first, that you should apply daily for at least 15-30 minutes.
 
-## Choose a solution
-* csharpsdotnet6: Play with the latest LTS dotnet version and csharp 10 features.
-* csharpdotnetstandard: Play with constraints of a wide-range library author with dotnet standard 2.0.
+## Kata variation
+The exercise is a variation of the original String Calculator Kata provided by [Roy Osherove](http://osherove.com/tdd-kata-1).
+
+This version is a bit more complex and requires a bit more work to complete.
+
+You can start with the original version 
+and then try this one if you want to see how **small changes can make a big difference**.
+
+The description comes from the [TDD Manifesto](https://tddmanifesto.com/exercises/).
 
 ## Before you start
 * Try not to read ahead.
@@ -120,12 +126,3 @@ make sure you can also handle multiple delimiters with length longer than one ch
 For example:
 
 `“//[**][%%]\n1**2%%3”` should return `6`.
-
-## General requirements
-- Use whatever language and frameworks you want. Use something that you know well.
-- Provide a README with instructions on how to compile and run the application.
-
-**IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
-
-Credits to [Roy Osherove](http://osherove.com/tdd-kata-1) for the original idea.
-
